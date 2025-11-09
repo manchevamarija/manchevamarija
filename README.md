@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there!  
 
-<!--
-**manchevamarija/manchevamarija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Science student passionate about software engineering, web development, and AI.  
+  
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Marija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manchevamarija&show_icons=true&theme=tokyonight)
+
+### 💡 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manchevamarija&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marija-mancheva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%20Marija%20Mancheva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
