@@ -4,16 +4,6 @@
   
 ---
 
-### 📊 GitHub Statistics
-
-![Marija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manchevamarija&show_icons=true&theme=tokyonight)
-
-### 💡 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manchevamarija&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me  
 
 <p align="center">
