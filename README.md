@@ -1,6 +1,6 @@
 ## 👋 Hi there!  
 
-💻 I'm a Computer Science student passionate about software engineering, web development, and AI.  
+💻 I'm a Computer Science student passionate about data engineering, web development, and AI.  
   
 ---
 
